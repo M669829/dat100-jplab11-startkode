@@ -71,7 +71,7 @@ public abstract class Innlegg {
 		}else {
 			lik = false;
 		}
-return lik;
+		return lik;
 	}
 	
 	@Override
